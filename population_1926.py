@@ -1,5 +1,5 @@
 """
-Exercice 3: Population du Canada en 1926
+Problème 3: Population du Canada en 1926
 <nom de la première personne> (<utilisateur github>)
 <nom de la deuxième personne> (<utilisateur github>)
 """
