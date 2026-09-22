@@ -55,11 +55,11 @@ Le code doit être écrit dans le fichier ``code_pirate.py``
 
 Un célèbre pirate est mort en laissant un coffre rempli de trésors. Pour l’ouvrir, il faut entrer un code secret à 3 chiffres caché dans une énigme. 
 L’énigme :
-•	Je suis un code à 3 chiffres ; tous mes chiffres sont différents.
-•	La somme de mes trois chiffres est 18.
-•	Mon deuxième chiffre est supérieur d’une unité au premier.
-•	Mon troisième chiffre est supérieur de cinq au premier.
-•	Le nombre à 3 chiffres est un multiple de 3.
+  - Je suis un code à 3 chiffres ; tous mes chiffres sont différents.
+  - La somme de mes trois chiffres est 18.
+  - Mon deuxième chiffre est supérieur d’une unité au premier.
+  - Mon troisième chiffre est supérieur de cinq au premier.
+  - Le nombre à 3 chiffres est un multiple de 3.
 Écrire un programme Python qui calcule le code et l’affiche.
 
 
