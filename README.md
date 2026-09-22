@@ -60,6 +60,7 @@ L’énigme :
   - Mon deuxième chiffre est supérieur d’une unité au premier.
   - Mon troisième chiffre est supérieur de cinq au premier.
   - Le nombre à 3 chiffres est un multiple de 3.
+  
 Écrire un programme Python qui calcule le code et l’affiche.
 
 
